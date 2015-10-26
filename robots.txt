@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /ckeditor/
+Disallow: /images/
+Disallow: /privacy-policy.pdf
+Disallow: /favicon.ico
+Disallow: /apple-touch-icon.png
+
+Sitemap: https://carlomoscatiello.com/sitemap.xml
